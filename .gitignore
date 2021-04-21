@@ -2,3 +2,4 @@
 .editorconfig
 venv/
 db.sqlite3
+*/.gitkeep
